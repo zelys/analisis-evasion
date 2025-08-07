@@ -1,0 +1,16 @@
+# Archivos de sistema
+.DS_Store
+
+# Entornos virtuales
+/venv/
+/.venv/
+/env/
+/env/
+/.env/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos generados
+/img/*.png
+/mod/*.pkl
