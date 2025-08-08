@@ -2,7 +2,7 @@
 
 Este proyecto se enfoca en el análisis de la evasión de clientes en una empresa de telecomunicaciones. A través de un proceso de ETL (Extracción, Transformación y Carga), análisis exploratorio de datos (EDA) y modelado de machine learning, se busca identificar los factores que influyen en la decisión de los clientes de abandonar la compañía y construir un modelo predictivo para anticipar futuras evasiones.
 
-**Autor:** Elias Celis - [LinkedIn](httpshttps://www.linkedin.com/in/ecelis)
+**Autor:** Elias Celis - [LinkedIn](https://www.linkedin.com/in/ecelis)
 
 ## Estructura del Proyecto
 
