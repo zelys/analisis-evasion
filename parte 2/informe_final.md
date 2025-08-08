@@ -86,4 +86,4 @@ La empresa cuenta ahora con una herramienta analítica que, usada de forma estra
 
 ---
 
-**Autor:** Elias Celis - [LinkedIn](httpshttps://www.linkedin.com/in/ecelis)
+**Autor:** Elias Celis - [LinkedIn](https://www.linkedin.com/in/ecelis)
