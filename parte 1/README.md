@@ -48,4 +48,4 @@ Abre el archivo analisis_telecom_1.ipynb con Jupyter Notebook o VS Code y ejecut
 
 ---
 
-**Autor:** Elias Celis - [LinkedIn](httpshttps://www.linkedin.com/in/ecelis)
+**Autor:** Elias Celis - [LinkedIn](https://www.linkedin.com/in/ecelis)
