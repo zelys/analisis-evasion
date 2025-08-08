@@ -12,5 +12,5 @@
 .ipynb_checkpoints/
 
 # Archivos generados
-/img/*.png
+*.png
 /mod/*.pkl

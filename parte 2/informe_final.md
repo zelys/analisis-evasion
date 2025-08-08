@@ -34,7 +34,7 @@ El modelo final seleccionado fue **Random Forest optimizado**, debido a su mejor
 
 Se evaluó la **importancia de las variables** del modelo Random Forest optimizado. A continuación, se muestran las variables más influyentes:
 
-![img](./importancia_variables_rf.png)
+![img](../img/importancia_variables_rf.webp)
 
 Estas variables indican que la **naturaleza del contrato y los servicios adicionales contratados** son factores determinantes en la decisión de cancelar.
 
