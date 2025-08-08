@@ -102,4 +102,4 @@ Instalar las dependencias:
 pip install -r requirements.txt
 ```
 
-**Autor:** Elias Celis - [LinkedIn](httpshttps://www.linkedin.com/in/ecelis)
+**Autor:** Elias Celis - [LinkedIn](https://www.linkedin.com/in/ecelis)
